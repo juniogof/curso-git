@@ -10,4 +10,8 @@ $ git add arquivo.txt
 
 Commitando
 
-$ git commit -m 'mensagem'
+$ git commit -m 'mensagem
+
+Enviando para repositorio remoto
+
+$ git push
