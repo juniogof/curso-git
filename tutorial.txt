@@ -33,3 +33,7 @@ $ git merge master
 Criando branch git flow
 
 $ git checkout -b feature_branch
+
+$ git merge master
+
+Criando tarefa DESENV-02
