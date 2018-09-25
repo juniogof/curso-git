@@ -37,3 +37,5 @@ $ git checkout -b feature_branch
 $ git merge master
 
 Criando tarefa DESENV-02
+
+commit develop
